@@ -1,4 +1,4 @@
-<h2>Passo a passo de execução do módulo de comunicação serial</h2>
+<h2>Passo a passo da execução do módulo de comunicação serial</h2>
 
 <h3> Preparações: </h3>
 
