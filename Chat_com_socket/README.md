@@ -2,7 +2,7 @@
 
 <h3> Preparações: </h3>
 
-Para começar, você precisa instalar algumas libs do python para funcionamento do código. Tais como: websockets e pyserial.
+Para começar, você precisa instalar algumas libs(bibliotecas) do python para funcionamento do código. Tais como: websockets e pyserial.
 
 No windows:
 
@@ -15,7 +15,7 @@ No linux ou MacOS:
 $ python3 -m pip install websockets pyserial
 ```
 
-Agora você deverá criar um arquivo de configuração (.json) que contenha os parâmetros de comunicação serial.
+Agora, você deverá criar um arquivo de configuração (.json) que contenha os parâmetros de comunicação serial.
 
 <p>
 <b>Obs: É aconselhável que o nome do arquivo (.json) não contenha caracteres especiais.</b>
