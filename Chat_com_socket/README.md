@@ -2,7 +2,7 @@
 
 <h3> Preparações: </h3>
 
-Para começar, você precisa instalar algumas libs(bibliotecas) do python para funcionamento do código. Tais como: websockets e pyserial.
+Para começar, você precisa instalar algumas libs (bibliotecas) do python para funcionamento do código. Tais como: websockets e pyserial.
 
 No windows:
 
